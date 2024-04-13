@@ -11,3 +11,4 @@ This demo is built using Microsoft Visual Studio 2022 community version on Windo
 
 Test system: intel core i7-7700 with nVidia GeForce RTX 3050
 
+![singlePendulum](https://github.com/eisbaer137/DX12_SinglePendulumDemo/assets/166890279/7522b80d-bfd3-4056-a18f-d987ef19cdc4)
